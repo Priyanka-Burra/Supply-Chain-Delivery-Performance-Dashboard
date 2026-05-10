@@ -2,21 +2,22 @@
 
 ## 📌 Project Overview
 
-The **Supply Chain Delivery Performance Dashboard** is an interactive Business Intelligence project developed using **Power BI** to analyze supply chain operations, shipping efficiency, delivery performance, and operational losses.
+The **Supply Chain Delivery Performance Dashboard** is an interactive Business Intelligence solution developed using **Power BI** to analyze supply chain operations, delivery efficiency, shipping performance, operational loss, and regional logistics trends.
 
-This dashboard transforms raw logistics data into actionable business insights through KPI monitoring, trend analysis, and interactive visualizations. The project focuses on identifying delivery bottlenecks, high-risk regions, shipping inefficiencies, and factors contributing to operational loss.
+The project transforms raw operational data into actionable business insights through KPI tracking, trend analysis, operational monitoring, and strategic recommendations. The dashboard helps identify delivery bottlenecks, high-risk shipping regions, operational inefficiencies, and opportunities for process optimization.
 
 ---
 
 # 🎯 Business Objective
 
-The primary objective of this project is to help organizations monitor and improve supply chain performance by:
+The objective of this project is to help organizations improve supply chain performance by:
 
-- Tracking delivery efficiency across shipping modes
+- Monitoring delivery efficiency across shipping methods
 - Identifying regions with high late delivery rates
-- Monitoring operational losses caused by delayed shipments
+- Tracking operational losses caused by delayed shipments
 - Comparing actual vs scheduled shipping performance
-- Supporting data-driven operational decision-making
+- Supporting business decision-making through data-driven insights
+- Providing strategic operational recommendations
 
 ---
 
@@ -33,40 +34,42 @@ The primary objective of this project is to help organizations monitor and impro
 
 # 📈 Dashboard Features
 
-### ✔ KPI Monitoring
-Track key business metrics including total orders, sales, delivery performance, and operational loss.
+### ✔ KPI Performance Monitoring
+Track key business metrics including total orders, late delivery percentage, sales performance, and operational loss.
 
 ### ✔ Delivery Status Analysis
-Analyze shipment status distribution including late deliveries, advance shipping, canceled shipments, and on-time deliveries.
+Analyze shipment distribution across delivery statuses such as late delivery, advance shipping, canceled shipments, and on-time delivery.
 
-### ✔ Shipping Mode Performance
-Compare shipping methods based on delivery delays and shipping efficiency.
+### ✔ Shipping Mode Performance Analysis
+Evaluate shipping methods based on delivery delays, shipping efficiency, and operational performance.
 
 ### ✔ Regional Delivery Analysis
-Identify regions with the highest volume of delayed shipments.
+Identify high-risk regions contributing to increased late deliveries and operational inefficiencies.
 
-### ✔ Interactive Filtering
-Enable dynamic business analysis using slicers and filters for market, shipping mode, delivery status, and order date.
+### ✔ Interactive Business Reporting
+Perform dynamic analysis using filters and slicers for market, shipping mode, delivery status, and order date.
 
-### ✔ Trend & Operational Insights
-Visualize delivery trends and compare actual vs scheduled shipping performance.
+### ✔ Operational Insights & Recommendations
+Generate business-focused recommendations for improving logistics efficiency and reducing delivery bottlenecks.
 
 ---
 
 # 🔍 Key Business Insights
 
 ## 🚚 Shipping Performance Insights
-- Standard Class shipping recorded the highest number of delayed deliveries.
+- Standard Class shipping generated the highest number of delayed deliveries.
+- Same Day shipping demonstrated the best delivery performance.
 - Delivery efficiency varied significantly across shipping methods.
-- Same Day shipping demonstrated the lowest average delivery delay.
 
 ## 🌍 Regional Insights
 - Central America and Western Europe showed the highest late delivery volume.
-- Certain regions consistently experienced operational delivery inefficiencies.
+- Increasing delivery delays were observed in LATAM regions.
+- Certain regions consistently experienced operational inefficiencies.
 
 ## 💰 Financial & Operational Impact
 - Late deliveries contributed significantly to operational loss.
-- High delay percentages negatively impacted overall supply chain performance.
+- Operational inefficiencies negatively impacted supply chain performance.
+- Shipping delays increased logistics risk and operational bottlenecks.
 
 ---
 
@@ -86,58 +89,4 @@ Visualize delivery trends and compare actual vs scheduled shipping performance.
 
 ## Main Dashboard
 
-![Dashboard Preview](Supply_Chain_Dashboard_Preview.png)
-
----
-
-# 📁 Repository Structure
-
-```bash
-Supply-Chain-Delivery-Performance-Dashboard/
-│
-├── README.md
-├── Supply_Chain_Dashboard_Preview.png
-├── Supply_Chain_Delivery_Dashboard.pbix
-├── supply_chain_dataset.zip
-└── LICENSE
-```
-
----
-
-# 🚀 Project Outcomes
-
-This project demonstrates the ability to:
-
-- Build interactive Power BI dashboards
-- Perform business-focused data analysis
-- Create KPI-driven reporting solutions
-- Analyze logistics and operational performance
-- Deliver actionable business insights using data visualization
-
----
-
-# 📚 Skills Demonstrated
-
-- Business Intelligence
-- Power BI Dashboard Development
-- Data Analysis
-- Data Visualization
-- DAX Calculations
-- Power Query Transformation
-- Dashboard Storytelling
-- Supply Chain Analytics
-- Interactive Reporting
-
----
-
-# 👩‍💻 Author
-
-## Priyanka Burra
-
-Aspiring Data Analyst passionate about transforming raw business data into actionable insights through Power BI, SQL, and Data Analytics.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
+The main dashboard provides KPI monitoring, shipping
