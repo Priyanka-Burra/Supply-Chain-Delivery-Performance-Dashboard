@@ -1,88 +1,129 @@
-Supply Chain Delivery Performance Dashboard
-Project Overview
+# 📦 Supply Chain Delivery Performance Dashboard
 
-This Power BI dashboard analyzes supply chain delivery performance using key business metrics such as total orders, late delivery percentage, total sales, and operational loss.
+## 📌 Project Overview
 
-The dashboard helps identify delivery inefficiencies, high-risk regions, shipping performance trends, and late delivery patterns across different shipping modes.
+This project presents an interactive Power BI dashboard designed to analyze supply chain delivery performance and operational efficiency.
 
-Business Problem
+The dashboard provides business insights into shipment delays, regional delivery performance, shipping mode efficiency, operational losses, and overall sales trends using data visualization and KPI tracking.
 
-Organizations often face challenges in monitoring delivery delays, shipment efficiency, and regional logistics performance.
+---
 
-This dashboard provides actionable insights to:
+# 🎯 Business Problem
 
-Track delivery performance
-Identify regions with high late deliveries
-Analyze shipping mode efficiency
-Monitor operational losses
-Improve supply chain decision-making
-Key KPIs
-Total Orders: 181K
-Late Delivery Percentage: 54.8%
-Total Loss: $3.9M
-Total Sales: $36.8M
-Dashboard Features
-KPI Performance Tracking
-Delivery Status Distribution
-Shipping Mode Analysis
-Regional Late Delivery Analysis
-Actual vs Scheduled Shipping Comparison
-Interactive Filters and Slicers
-Tools & Technologies Used
-Power BI
-Power Query
-DAX
-Data Visualization
-Supply Chain Analytics
-Key Insights
-Standard Class shipping generated the highest number of late deliveries.
-Certain regions showed significantly higher delivery delays.
-Late deliveries contributed heavily to operational losses.
-Shipping performance varied considerably across shipping modes.
-Dashboard Preview
+Organizations often face challenges in monitoring:
 
-(Add your dashboard screenshot here)
+- Delivery delays
+- Shipping inefficiencies
+- Regional logistics performance
+- Operational losses caused by delayed shipments
 
-Author
+This dashboard helps businesses identify critical performance gaps and supports data-driven decision-making for supply chain optimization.
 
-Priyanka Burra
+---
 
-4️⃣ Best LinkedIn Post (Professional + Recruiter Friendly)
+# 📊 Key KPIs
 
-Use this version.
+| KPI | Value |
+|------|------|
+| Total Orders | 181K |
+| Late Delivery Percentage | 54.8% |
+| Total Sales | $36.8M |
+| Operational Loss | $3.9M |
 
-🚀 Excited to share my latest Power BI project:
+---
 
-Supply Chain Delivery Performance Dashboard
+# 📈 Dashboard Features
 
-This dashboard focuses on analyzing supply chain operations and delivery performance using interactive visualizations and business KPIs.
+- KPI Performance Monitoring
+- Delivery Status Analysis
+- Shipping Mode Performance Comparison
+- Regional Late Delivery Analysis
+- Actual vs Scheduled Shipping Comparison
+- Interactive Filters and Slicers
+- Business Trend Visualization
 
-📊 Key Highlights:
-• 181K total orders analyzed
-• 54.8% late delivery rate identified
-• $36.8M total sales tracked
-• Regional late delivery analysis
-• Shipping mode performance comparison
-• Interactive business filters and insights
+---
 
-🛠 Tools Used:
-Power BI | DAX | Power Query | Data Visualization
+# 🛠️ Tools & Technologies Used
 
-📌 Key Business Insights:
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Supply Chain Analytics
 
-Standard Class shipping showed the highest late delivery volume
-Several regions experienced consistently high delivery delays
-Operational losses were strongly associated with delayed shipments
-Delivery performance varied significantly across shipping methods
+---
 
-This project helped me strengthen my skills in:
-✔ Business intelligence
-✔ Dashboard storytelling
-✔ KPI analysis
-✔ Supply chain analytics
-✔ Interactive reporting
+# 🔍 Key Business Insights
 
-GitHub Repository:
-(Insert your GitHub link)
+### 🚚 Shipping Performance
+- Standard Class shipping generated the highest number of late deliveries.
+- Delivery performance varied significantly across shipping methods.
 
-#PowerBI #DataAnalytics #BusinessIntelligence #SupplyChainAnalytics #DataVisualization #DashboardDesign #Analytics #PowerBIDashboard #SQL #DataAnalyst
+### 🌍 Regional Analysis
+- Certain regions experienced consistently high delivery delays.
+- Regional logistics inefficiencies contributed to operational challenges.
+
+### 💰 Operational Impact
+- Late deliveries contributed heavily to operational losses.
+- High delay percentages negatively impacted supply chain efficiency.
+
+---
+
+# 📷 Dashboard Preview
+
+## Main Dashboard
+
+![Dashboard Preview](Dashboard%20Screenshot.png)
+
+---
+
+# 📁 Repository Structure
+
+```bash
+Supply-Chain-Delivery-Performance-Dashboard/
+│
+├── Dashboard Screenshot.png
+├── README.md
+├── Supply_Chain_Delivery_Dashboard.pbix
+├── supply_chain_dataset.zip
+└── LICENSE
+```
+
+---
+
+# 🚀 Project Objectives
+
+The objective of this project is to:
+
+- Analyze delivery performance trends
+- Identify regions with high delivery delays
+- Evaluate shipping mode efficiency
+- Track operational losses
+- Build an interactive business intelligence dashboard
+
+---
+
+# 📚 Skills Demonstrated
+
+- Business Intelligence
+- Data Analysis
+- Dashboard Storytelling
+- KPI Analysis
+- Data Visualization
+- Supply Chain Analytics
+- Interactive Reporting
+
+---
+
+# 👩‍💻 Author
+
+## Priyanka Burra
+
+Aspiring Data Analyst passionate about transforming raw data into actionable business insights through Power BI, SQL, and Data Analytics.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
