@@ -1,24 +1,18 @@
 # 📦 Supply Chain Delivery Performance Dashboard
 
-An interactive **Power BI Business Intelligence Dashboard** designed to analyze supply chain operations, delivery performance, shipping efficiency, operational losses, and regional logistics trends.
+## 🚀 Executive Overview
 
-This project demonstrates real-world data analytics, KPI monitoring, and business intelligence reporting using **Power BI, Power Query, and DAX**.
+The **Supply Chain Delivery Performance Dashboard** is a Business Intelligence solution developed using **Power BI** to monitor, analyze, and optimize logistics and supply chain operations.
 
----
+The project focuses on transforming operational supply chain data into actionable business insights through KPI monitoring, delivery performance analysis, operational loss tracking, and regional logistics evaluation.
 
-# 🚀 Project Overview
-
-The Supply Chain Delivery Performance Dashboard helps organizations monitor logistics operations and identify delivery inefficiencies through data-driven insights.
-
-The dashboard provides:
-- Delivery performance analysis
-- Shipping efficiency monitoring
-- Operational loss tracking
-- Regional logistics insights
-- KPI-based business reporting
-- Strategic recommendations for process optimization
-
-This project converts raw operational data into meaningful business insights that support better decision-making and operational improvements.
+The dashboard enables organizations to:
+- Improve delivery efficiency
+- Identify operational bottlenecks
+- Reduce shipping delays
+- Monitor logistics KPIs
+- Optimize shipping operations
+- Support strategic business decision-making
 
 ---
 
@@ -34,30 +28,30 @@ This project converts raw operational data into meaningful business insights tha
 
 # 🎯 Business Problem
 
-Modern supply chain operations face several challenges including:
+Supply chain and logistics operations frequently encounter:
 - High late delivery rates
-- Increasing logistics costs
-- Operational bottlenecks
-- Shipping inefficiencies
-- Limited visibility into delivery performance
+- Increasing operational costs
+- Regional shipping inefficiencies
+- Delivery performance inconsistencies
+- Limited visibility into logistics KPIs
 
-Without proper analytical reporting, organizations struggle to identify delay patterns, operational risks, and performance gaps.
+These operational challenges negatively impact customer satisfaction, increase logistics risks, and reduce overall supply chain efficiency.
 
-This dashboard was developed to provide centralized monitoring and actionable analytics for supply chain optimization.
+The objective of this project is to provide centralized operational visibility through interactive analytics and KPI-driven reporting.
 
 ---
 
 # 💡 Project Objectives
 
-The primary objectives of this project are:
+This project was designed to:
 
-- Monitor delivery performance across shipping methods
-- Identify regions with high late delivery rates
-- Analyze operational losses caused by delays
-- Compare shipping modes based on efficiency
-- Improve visibility into logistics KPIs
-- Support strategic business decision-making
-- Generate actionable operational recommendations
+- Monitor end-to-end delivery performance
+- Analyze shipping efficiency across delivery methods
+- Identify high-risk operational regions
+- Track operational losses caused by delays
+- Evaluate logistics performance trends
+- Support data-driven operational decision-making
+- Generate strategic recommendations for supply chain optimization
 
 ---
 
@@ -72,97 +66,111 @@ The primary objectives of this project are:
 
 ---
 
-# 📈 Dashboard Features
+# 📈 Dashboard Capabilities
 
-## ✔ KPI Monitoring
-Track business-critical metrics including:
+## ✔ Executive KPI Monitoring
+Monitor business-critical metrics including:
 - Total Orders
 - Total Sales
-- Late Delivery Percentage
-- Operational Loss
+- Delivery Performance
+- Operational Losses
 
-## ✔ Delivery Performance Analysis
-Analyze delivery statuses such as:
-- Late Delivery
-- On-Time Delivery
-- Advance Shipping
+## ✔ Delivery Performance Analytics
+Analyze shipment statuses such as:
+- Late Deliveries
+- On-Time Deliveries
+- Advance Shipments
 - Canceled Shipments
 
-## ✔ Shipping Mode Analysis
-Compare operational performance across:
+## ✔ Shipping Method Performance
+Evaluate operational efficiency across:
 - Standard Class
 - First Class
 - Second Class
 - Same Day Shipping
 
-## ✔ Regional Logistics Analysis
+## ✔ Regional Logistics Intelligence
 Identify:
 - High-risk delivery regions
-- Delay trends across markets
+- Delay patterns across markets
 - Operational inefficiencies
 - Logistics bottlenecks
 
-## ✔ Interactive Reporting
-Dynamic dashboard filtering using:
-- Region
-- Market
-- Shipping Mode
-- Delivery Status
-- Order Date
+## ✔ Interactive Business Reporting
+Perform dynamic analysis using:
+- Market Filters
+- Region Filters
+- Shipping Mode Filters
+- Delivery Status Filters
+- Order Date Filters
 
-## ✔ Strategic Recommendations
-Business-focused recommendations for:
+## ✔ Strategic Recommendation Framework
+Support operational improvement initiatives including:
 - Route optimization
-- Shipping efficiency improvement
-- Delay reduction
-- Operational performance enhancement
+- Shipping process enhancement
+- Delay reduction strategies
+- Logistics performance improvement
 
 ---
 
 # 🔍 Key Business Insights
 
-## 🚚 Shipping Insights
-- Standard Class shipping contributed the highest number of delayed deliveries.
-- Same Day shipping demonstrated the best delivery performance.
-- Longer shipping durations increased delivery risk.
-- Shipping efficiency varied significantly across delivery methods.
+## 🚚 Shipping Performance Insights
+- Standard Class shipping generated the highest delayed delivery volume.
+- Same Day shipping demonstrated the strongest delivery performance.
+- Shipping duration significantly influenced delivery delay probability.
+- Delivery efficiency varied across transportation methods.
 
-## 🌍 Regional Insights
-- Central America and Western Europe showed the highest late delivery volumes.
-- LATAM regions experienced increasing delivery delays.
-- Certain regions consistently contributed to operational inefficiencies.
+## 🌍 Regional Performance Insights
+- Central America and Western Europe experienced the highest late delivery rates.
+- LATAM regions demonstrated increasing delivery delays over time.
+- Several operational regions consistently contributed to logistics inefficiencies.
 
-## 💰 Financial Insights
-- Late deliveries significantly increased operational losses.
-- Logistics inefficiencies negatively impacted supply chain performance.
-- Operational bottlenecks increased shipping risks and costs.
-
----
-
-# 📌 Business Recommendations
-
-- Optimize Standard Class shipping operations
-- Improve delivery route planning in LATAM regions
-- Increase Same Day shipping capacity where feasible
-- Monitor delivery KPIs regularly
-- Reduce operational bottlenecks through process optimization
-- Improve warehouse-to-delivery coordination
+## 💰 Financial & Operational Insights
+- Delivery delays significantly increased operational losses.
+- Shipping inefficiencies negatively impacted supply chain performance.
+- Operational bottlenecks increased logistics risks and delivery costs.
 
 ---
 
-# ⚙️ Project Workflow
+# 📌 Strategic Recommendations
 
-Dataset Collection → Data Cleaning → Data Transformation → Data Modeling → DAX Measures → KPI Development → Dashboard Visualization → Business Insights
+- Optimize Standard Class delivery operations
+- Improve logistics planning within LATAM regions
+- Expand Same Day shipping capabilities where operationally feasible
+- Continuously monitor delivery KPIs for proactive issue detection
+- Reduce operational bottlenecks through workflow optimization
+- Improve warehouse-to-delivery coordination processes
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# ⚙️ Project Architecture & Workflow
 
-| Tool / Technology | Purpose |
+```text
+Raw Dataset
+   ↓
+Data Cleaning & Transformation (Power Query)
+   ↓
+Data Modeling
+   ↓
+DAX Measure Development
+   ↓
+KPI Calculation & Validation
+   ↓
+Interactive Dashboard Development
+   ↓
+Business Insights & Recommendations
+```
+
+---
+
+# 🛠️ Technology Stack
+
+| Technology | Purpose |
 |------|------|
 | Power BI | Dashboard Development |
-| Power Query | Data Cleaning & Transformation |
-| DAX | KPI Calculations & Measures |
+| Power Query | Data Transformation & Cleaning |
+| DAX | KPI & Measure Development |
 | Data Visualization | Interactive Reporting |
 | Supply Chain Analytics | Operational Analysis |
 
@@ -172,77 +180,82 @@ Dataset Collection → Data Cleaning → Data Transformation → Data Modeling �
 
 - Business Intelligence
 - Power BI Dashboard Development
-- Data Visualization
+- KPI Design & Reporting
 - DAX Calculations
-- Power Query
-- KPI Reporting
-- Data Cleaning & Transformation
+- Power Query Transformation
+- Data Visualization
+- Operational Analytics
 - Supply Chain Analytics
-- Business Analytics
+- Data Storytelling
+- Business Problem Solving
 - Analytical Thinking
 
 ---
 
 # 🌟 Project Impact
 
-- Analyzed 181K+ supply chain orders
+- Analyzed 181K+ supply chain transactions
 - Identified 54.8% late delivery rate across operations
 - Highlighted high-risk logistics regions
-- Generated actionable business recommendations
-- Improved operational visibility through KPI monitoring
+- Generated business-focused operational recommendations
+- Improved visibility into delivery performance and operational risk metrics
 
 ---
 
-# 📁 Repository Files
+# 📁 Repository Structure
 
 | File | Description |
 |------|------|
-| `Supply_Chain_Delivery_Dashboard.pbix` | Power BI Dashboard File |
-| `supply_chain_dataset.zip` | Dataset Used for Analysis |
+| `Supply_Chain_Performance_Dashboard.pbix` | Power BI Dashboard File |
+| `Supply_Chain_Dataset.zip` | Dataset Used for Analysis |
 | `Supply_Chain_Dashboard_Preview.png` | Main Dashboard Screenshot |
 | `Supply_Chain_Dashboard_Key_Insights.png` | Key Insights Dashboard Screenshot |
 
 ---
 
-# ▶️ How to Use
+# ▶️ Getting Started
 
-1. Download the `.pbix` file
-2. Open using **Power BI Desktop**
-3. Load or refresh the dataset if required
-4. Explore interactive dashboard visuals and filters
+### Requirements
+- Power BI Desktop
 
----
-
-# ⭐ Resume Project Description
-
-Developed an interactive **Supply Chain Delivery Performance Dashboard** using Power BI to analyze logistics operations, delivery efficiency, operational losses, and regional shipping trends. Created KPI-driven visualizations using DAX and Power Query to identify operational bottlenecks, monitor shipping performance, and support data-driven business decisions.
+### Steps
+1. Download the repository files
+2. Open `Supply_Chain_Performance_Dashboard.pbix`
+3. Refresh the dataset if required
+4. Explore dashboard visuals and filters
 
 ---
 
-# 🏆 Why This Project Stands Out
+# ⭐ Resume Project Summary
+
+Developed an interactive **Supply Chain Delivery Performance Dashboard** using Power BI to analyze logistics operations, delivery performance, shipping efficiency, operational losses, and regional trends. Utilized Power Query and DAX to create KPI-driven analytical reporting and generate actionable business insights for operational optimization and strategic decision-making.
+
+---
+
+# 🏆 Why This Project Matters
 
 This project demonstrates:
-- Real-world business problem solving
-- End-to-end Business Intelligence workflow implementation
-- Data storytelling and visualization
-- KPI-based analytical reporting
-- Strong analytical and problem-solving skills
-- Business-focused insight generation
+- End-to-end Business Intelligence implementation
+- Real-world operational analytics
+- KPI-driven performance monitoring
+- Interactive dashboard development
+- Data storytelling and insight generation
+- Strategic business analysis
+- Strong analytical and problem-solving capabilities
 
 This project is highly relevant for:
 - Data Analyst Roles
 - Business Intelligence Analyst Roles
 - Power BI Developer Roles
-- Supply Chain Analyst Roles
 - Operations Analyst Roles
+- Supply Chain Analyst Roles
 
 ---
 
 # 📬 Conclusion
 
-This project showcases the practical application of **Business Intelligence and Data Analytics** in solving real-world supply chain challenges using Power BI.
+This project showcases the practical application of **Business Intelligence, Data Analytics, and Supply Chain Analytics** in solving real-world operational challenges using Power BI.
 
-The dashboard delivers meaningful operational insights, improves visibility into logistics performance, and demonstrates strong analytical, reporting, and visualization skills valuable for modern data-driven organizations.
+The dashboard provides meaningful operational visibility, supports strategic decision-making, and demonstrates strong analytical, reporting, and visualization capabilities valuable for modern data-driven organizations.
 
 ---
-```
