@@ -2,17 +2,19 @@
 
 ## 🚀 Executive Overview
 
-The **Supply Chain Delivery Performance Dashboard** is a Business Intelligence solution developed using **Power BI** to monitor, analyze, and optimize logistics and supply chain operations.
+The **Supply Chain Delivery Performance Dashboard** is an enterprise-style Business Intelligence solution developed using **Power BI** to monitor, analyze, and optimize logistics and supply chain operations.
 
-The project focuses on transforming operational supply chain data into actionable business insights through KPI monitoring, delivery performance analysis, operational loss tracking, and regional logistics evaluation.
+The project focuses on transforming raw operational data into actionable business insights through KPI monitoring, delivery performance analysis, operational loss tracking, and regional logistics evaluation.
+
+The solution was designed to support operational visibility, KPI governance, and data-driven decision-making across supply chain functions.
 
 The dashboard enables organizations to:
 - Improve delivery efficiency
 - Identify operational bottlenecks
 - Reduce shipping delays
 - Monitor logistics KPIs
-- Optimize shipping operations
-- Support strategic business decision-making
+- Optimize supply chain performance
+- Support strategic operational planning
 
 ---
 
@@ -30,14 +32,14 @@ The dashboard enables organizations to:
 
 Supply chain and logistics operations frequently encounter:
 - High late delivery rates
-- Increasing operational costs
-- Regional shipping inefficiencies
-- Delivery performance inconsistencies
-- Limited visibility into logistics KPIs
+- Increasing logistics costs
+- Operational inefficiencies
+- Regional delivery bottlenecks
+- Limited visibility into delivery performance metrics
 
 These operational challenges negatively impact customer satisfaction, increase logistics risks, and reduce overall supply chain efficiency.
 
-The objective of this project is to provide centralized operational visibility through interactive analytics and KPI-driven reporting.
+This project was developed to provide centralized operational visibility through interactive analytics, KPI monitoring, and business-focused reporting.
 
 ---
 
@@ -46,10 +48,11 @@ The objective of this project is to provide centralized operational visibility t
 This project was designed to:
 
 - Monitor end-to-end delivery performance
-- Analyze shipping efficiency across delivery methods
+- Analyze shipping efficiency across transportation methods
 - Identify high-risk operational regions
-- Track operational losses caused by delays
+- Track operational losses caused by delivery delays
 - Evaluate logistics performance trends
+- Improve visibility into operational KPIs
 - Support data-driven operational decision-making
 - Generate strategic recommendations for supply chain optimization
 
@@ -66,7 +69,7 @@ This project was designed to:
 
 ---
 
-# 📈 Dashboard Capabilities
+# 📈 Analytical Capabilities
 
 ## ✔ Executive KPI Monitoring
 Monitor business-critical metrics including:
@@ -76,7 +79,7 @@ Monitor business-critical metrics including:
 - Operational Losses
 
 ## ✔ Delivery Performance Analytics
-Analyze shipment statuses such as:
+Analyze shipment statuses including:
 - Late Deliveries
 - On-Time Deliveries
 - Advance Shipments
@@ -169,14 +172,14 @@ Business Insights & Recommendations
 | Technology | Purpose |
 |------|------|
 | Power BI | Dashboard Development |
-| Power Query | Data Transformation & Cleaning |
+| Power Query | Data Cleaning & Transformation |
 | DAX | KPI & Measure Development |
 | Data Visualization | Interactive Reporting |
 | Supply Chain Analytics | Operational Analysis |
 
 ---
 
-# 🧠 Skills Demonstrated
+# 🧠 Core Competencies
 
 - Business Intelligence
 - Power BI Dashboard Development
@@ -195,7 +198,7 @@ Business Insights & Recommendations
 # 🌟 Project Impact
 
 - Analyzed 181K+ supply chain transactions
-- Identified 54.8% late delivery rate across operations
+- Identified a 54.8% late delivery rate across operations
 - Highlighted high-risk logistics regions
 - Generated business-focused operational recommendations
 - Improved visibility into delivery performance and operational risk metrics
@@ -215,14 +218,14 @@ Business Insights & Recommendations
 
 # ▶️ Getting Started
 
-### Requirements
+## Requirements
 - Power BI Desktop
 
-### Steps
+## Steps
 1. Download the repository files
 2. Open `Supply_Chain_Performance_Dashboard.pbix`
 3. Refresh the dataset if required
-4. Explore dashboard visuals and filters
+4. Explore interactive dashboard visuals and filters
 
 ---
 
